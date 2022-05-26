@@ -1,1 +1,1 @@
-# fin535
+# FIN535 Lab materials
