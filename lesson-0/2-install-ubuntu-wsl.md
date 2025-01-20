@@ -38,7 +38,7 @@ https://evidencen.com/wsl2/
                               Data Execution Prevention Available: Yes
       ```
 
-   b. If **Virtualization Enabled in Firware: No**, then enable virtualization in your BIOS:
+   b. If **Virtualization Enabled in Firmware: No**, then enable virtualization in your BIOS:
 
       1. Boot into BIOS for your motherboard.
       2. Look for the settings to enable virtualization. It is usually called VT-x, AMD-V, SVM, Intel VT-d or AMD IOMMU.
